@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { QuizSection, Question } from "../types/Quiz";
+import { QuizSection } from "../types/Quiz";
 
 interface QuizSectionProps {
   section: QuizSection;
