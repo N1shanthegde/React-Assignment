@@ -43,7 +43,7 @@ const QuizSectionComponent: React.FC<QuizSectionProps> = ({ section }) => {
 
       {section.questions.map((question) => (
         <div key={question.id} className=" p-4">
-          <p className="font-semibold mb-3">{question.text}</p>
+          <p className="font-semibold mb-3">{question.id}. {question.text}</p>
 
           <div className="space-y-2">
             {question.options.map((option) => (
