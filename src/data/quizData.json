@@ -1,0 +1,119 @@
+[
+    {
+        "id": "SimpleInterest",
+        "name": "Simple Interest",
+        "questions": [
+            {
+                "id": 1,
+                "text": "500 was invested at 12% per annum simple interest and a certain sum of money invested at 10% per annum simple interest. If the sum of the interest on both the sum after 4 years is 480, the latter sum of money is ?",
+                "options": [
+                    "450",
+                    "750",
+                    "550",
+                    "600"
+                ],
+                "correctAnswer": "600"
+            },
+            {
+                "id": 2,
+                "text": "A man took a loan from a bank at the rate of 12% per annum at simple interest. After 3 years he had to pay 5,400 as interest only for the period. The principal amount borrowed by him was ?",
+                "options": [
+                    "2,000",
+                    "10,000",
+                    "20,000",
+                    "15,000"
+                ],
+                "correctAnswer": "15,000"
+            },
+            {
+                "id": 3,
+                "text": "In simple interest rate per annum a certain sum amounts to Rs. 5,182 in 2 years and Rs. 5,832 in 3 years. The principal in rupees is ?",
+                "options": [
+                    "Rs. 2882",
+                    "Rs. 5000",
+                    "Rs. 4000",
+                    "Rs. 3882"
+                ],
+                "correctAnswer": "Rs. 3882"
+            },
+            {
+                "id": 4,
+                "text": "If the simple interest for 6 years be equal to 30% of the principal, it will be equal to the principal after ?",
+                "options": [
+                    "30 years",
+                    "10 years",
+                    "20 years",
+                    "22 years"
+                ],
+                "correctAnswer": "20 years"
+            },
+            {
+                "id": 5,
+                "text": "The rate of simple interest per annum at which a sum of money doubles itself in 16 and 2/3 years is ?",
+                "options": [
+                    "4 %",
+                    "6 %",
+                    "5 %",
+                    "7 %"
+                ],
+                "correctAnswer": "6 %"
+            },
+            {
+                "id": 6,
+                "text": "6,000 becomes 7,200 in 4 years at a certain rate of simple interest. If the rate becomes 1.5 times of itself, the amount of the same principal in 5 years will be ?",
+                "options": [
+                    "8,000",
+                    "9,250",
+                    "9,000",
+                    "8,250"
+                ],
+                "correctAnswer": "8,250"
+            },
+            {
+                "id": 7,
+                "text": "In how many years a sum of Rs. 3000 will yield an interest of Rs. 1080 at 12% per annum simple interest ?",
+                "options": [
+                    "3 years",
+                    "4 years",
+                    "5 years",
+                    "6 years"
+                ],
+                "correctAnswer": "3 years"
+            },
+            {
+                "id": 8,
+                "text": "If the simple interest on Re. 1 for 1 month is 1 paisa, then the rate per cent per annum will be ?",
+                "options": [
+                    "10%",
+                    "8%",
+                    "12%",
+                    "6%"
+                ],
+                "correctAnswer": "12%"
+            },
+            {
+                "id": 9,
+                "text": "The sum lent at 5% per annum (i.e. 365 days) simple interest, that produces interest, of 2.00 a day, is ?",
+                "options": [
+                    "1,400",
+                    "14,600",
+                    "14,700",
+                    "7,300"
+                ],
+                "correctAnswer": "14,600"
+            },
+            {
+                "id": 10,
+                "text": "In how many years will a sum of 3,000 yield a simple interest of 1,080 at 12% per annum ?",
+                "options": [
+                    "3 years",
+                    "2 and 1/2 years",
+                    "2 years",
+                    "3 and 1/2 years"
+                ],
+                "correctAnswer": "3 years"
+            }
+        ]
+    }
+    
+]
