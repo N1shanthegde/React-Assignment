@@ -95,24 +95,7 @@ const QuizSectionComponent: React.FC<QuizSectionProps> = ({ section }) => {
             You scored {calculateScore()} out of {section.questions.length}{" "}
             questions.
           </p>
-          {section.questions.map((question) => (
-            <div
-              key={question.id}
-              className={`mt-2 p-2 rounded ${
-                submittedAnswers[question.id]
-                  ? "bg-green-100 text-green-800"
-                  : "bg-red-100 text-red-800"
-              }`}
-            >
-              <p>
-                Question {question.id}:{" "}
-                {submittedAnswers[question.id] ? "Correct" : "Incorrect"}
-              </p>
-              {!submittedAnswers[question.id] && (
-                <p>Correct Answer: {question.correctAnswer}</p>
-              )}
-            </div>
-          ))}
+          
         </div>
       )}
     </div>
