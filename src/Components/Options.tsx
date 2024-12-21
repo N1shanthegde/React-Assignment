@@ -11,7 +11,7 @@ function Options() {
             <summary className="list-none cursor-pointer py-2 text-white">
             <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="h-10 fill-current" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z" /></svg>
             </summary>
-            <div className="absolute z-10 top-full left-0 w-full bg-green flex flex-col space-y-2 p-4">
+            <div className="absolute z-10 top-full left-0 w-full bg-green-700 flex flex-col space-y-2 p-4">
               <Link to="/" className="block py-1 hover:bg-green-700">
                 Home
               </Link>
