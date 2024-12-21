@@ -1,119 +1,234 @@
 [
     {
-        "id": "SimpleInterest",
-        "name": "Simple Interest",
-        "questions": [
-            {
-                "id": 1,
-                "text": "500 was invested at 12% per annum simple interest and a certain sum of money invested at 10% per annum simple interest. If the sum of the interest on both the sum after 4 years is 480, the latter sum of money is ?",
-                "options": [
-                    "450",
-                    "750",
-                    "550",
-                    "600"
-                ],
-                "correctAnswer": "600"
-            },
-            {
-                "id": 2,
-                "text": "A man took a loan from a bank at the rate of 12% per annum at simple interest. After 3 years he had to pay 5,400 as interest only for the period. The principal amount borrowed by him was ?",
-                "options": [
-                    "2,000",
-                    "10,000",
-                    "20,000",
-                    "15,000"
-                ],
-                "correctAnswer": "15,000"
-            },
-            {
-                "id": 3,
-                "text": "In simple interest rate per annum a certain sum amounts to Rs. 5,182 in 2 years and Rs. 5,832 in 3 years. The principal in rupees is ?",
-                "options": [
-                    "Rs. 2882",
-                    "Rs. 5000",
-                    "Rs. 4000",
-                    "Rs. 3882"
-                ],
-                "correctAnswer": "Rs. 3882"
-            },
-            {
-                "id": 4,
-                "text": "If the simple interest for 6 years be equal to 30% of the principal, it will be equal to the principal after ?",
-                "options": [
-                    "30 years",
-                    "10 years",
-                    "20 years",
-                    "22 years"
-                ],
-                "correctAnswer": "20 years"
-            },
-            {
-                "id": 5,
-                "text": "The rate of simple interest per annum at which a sum of money doubles itself in 16 and 2/3 years is ?",
-                "options": [
-                    "4 %",
-                    "6 %",
-                    "5 %",
-                    "7 %"
-                ],
-                "correctAnswer": "6 %"
-            },
-            {
-                "id": 6,
-                "text": "6,000 becomes 7,200 in 4 years at a certain rate of simple interest. If the rate becomes 1.5 times of itself, the amount of the same principal in 5 years will be ?",
-                "options": [
-                    "8,000",
-                    "9,250",
-                    "9,000",
-                    "8,250"
-                ],
-                "correctAnswer": "8,250"
-            },
-            {
-                "id": 7,
-                "text": "In how many years a sum of Rs. 3000 will yield an interest of Rs. 1080 at 12% per annum simple interest ?",
-                "options": [
-                    "3 years",
-                    "4 years",
-                    "5 years",
-                    "6 years"
-                ],
-                "correctAnswer": "3 years"
-            },
-            {
-                "id": 8,
-                "text": "If the simple interest on Re. 1 for 1 month is 1 paisa, then the rate per cent per annum will be ?",
-                "options": [
-                    "10%",
-                    "8%",
-                    "12%",
-                    "6%"
-                ],
-                "correctAnswer": "12%"
-            },
-            {
-                "id": 9,
-                "text": "The sum lent at 5% per annum (i.e. 365 days) simple interest, that produces interest, of 2.00 a day, is ?",
-                "options": [
-                    "1,400",
-                    "14,600",
-                    "14,700",
-                    "7,300"
-                ],
-                "correctAnswer": "14,600"
-            },
-            {
-                "id": 10,
-                "text": "In how many years will a sum of 3,000 yield a simple interest of 1,080 at 12% per annum ?",
-                "options": [
-                    "3 years",
-                    "2 and 1/2 years",
-                    "2 years",
-                    "3 and 1/2 years"
-                ],
-                "correctAnswer": "3 years"
-            }
-        ]
+      "id": "SimpleInterest",
+      "name": "Simple Interest",
+      "questions": [
+        {
+          "id": 1,
+          "text": "500 was invested at 12% per annum simple interest and a certain sum of money invested at 10% per annum simple interest. If the sum of the interest on both the sum after 4 years is 480, the latter sum of money is ?",
+          "options": [
+            "450",
+            "750",
+            "550",
+            "600"
+          ],
+          "correctAnswer": "600"
+        },
+        {
+          "id": 2,
+          "text": "A man took a loan from a bank at the rate of 12% per annum at simple interest. After 3 years he had to pay 5,400 as interest only for the period. The principal amount borrowed by him was ?",
+          "options": [
+            "2,000",
+            "10,000",
+            "20,000",
+            "15,000"
+          ],
+          "correctAnswer": "15,000"
+        },
+        {
+          "id": 3,
+          "text": "In simple interest rate per annum a certain sum amounts to Rs. 5,182 in 2 years and Rs. 5,832 in 3 years. The principal in rupees is ?",
+          "options": [
+            "Rs. 2882",
+            "Rs. 5000",
+            "Rs. 4000",
+            "Rs. 3882"
+          ],
+          "correctAnswer": "Rs. 3882"
+        },
+        {
+          "id": 4,
+          "text": "If the simple interest for 6 years be equal to 30% of the principal, it will be equal to the principal after ?",
+          "options": [
+            "30 years",
+            "10 years",
+            "20 years",
+            "22 years"
+          ],
+          "correctAnswer": "20 years"
+        },
+        {
+          "id": 5,
+          "text": "The rate of simple interest per annum at which a sum of money doubles itself in 16 and 2/3 years is ?",
+          "options": [
+            "4 %",
+            "6 %",
+            "5 %",
+            "7 %"
+          ],
+          "correctAnswer": "6 %"
+        },
+        {
+          "id": 6,
+          "text": "6,000 becomes 7,200 in 4 years at a certain rate of simple interest. If the rate becomes 1.5 times of itself, the amount of the same principal in 5 years will be ?",
+          "options": [
+            "8,000",
+            "9,250",
+            "9,000",
+            "8,250"
+          ],
+          "correctAnswer": "8,250"
+        },
+        {
+          "id": 7,
+          "text": "In how many years a sum of Rs. 3000 will yield an interest of Rs. 1080 at 12% per annum simple interest ?",
+          "options": [
+            "3 years",
+            "4 years",
+            "5 years",
+            "6 years"
+          ],
+          "correctAnswer": "3 years"
+        },
+        {
+          "id": 8,
+          "text": "If the simple interest on Re. 1 for 1 month is 1 paisa, then the rate per cent per annum will be ?",
+          "options": [
+            "10%",
+            "8%",
+            "12%",
+            "6%"
+          ],
+          "correctAnswer": "12%"
+        },
+        {
+          "id": 9,
+          "text": "The sum lent at 5% per annum (i.e. 365 days) simple interest, that produces interest, of 2.00 a day, is ?",
+          "options": [
+            "1,400",
+            "14,600",
+            "14,700",
+            "7,300"
+          ],
+          "correctAnswer": "14,600"
+        },
+        {
+          "id": 10,
+          "text": "In how many years will a sum of 3,000 yield a simple interest of 1,080 at 12% per annum ?",
+          "options": [
+            "3 years",
+            "2 and 1/2 years",
+            "2 years",
+            "3 and 1/2 years"
+          ],
+          "correctAnswer": "3 years"
+        }
+      ]
+    },
+    {
+      "id": "ProfitAndLoss",
+      "name": "Profit and Loss",
+      "questions": [
+        {
+          "id": 1,
+          "text": "If the cost price is 95% of the selling price, what is the profit percent ?",
+          "options": [
+            "4%",
+            "4.75%",
+            "5%",
+            "5.26%"
+          ],
+          "correctAnswer": "5.26%"
+        },
+        {
+          "id": 2,
+          "text": "If the cost price of 25 pens is equal to the selling price of 20 pens, then the profit per cent is ?",
+          "options": [
+            "20%",
+            "15%",
+            "25%",
+            "5%"
+          ],
+          "correctAnswer": "25%"
+        },
+        {
+          "id": 3,
+          "text": "By selling 12 oranges for 60, a man loses 25%. The number of oranges he has to sell for 100, so as to gain 25% is ?",
+          "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+          ],
+          "correctAnswer": "12"
+        },
+        {
+          "id": 4,
+          "text": "A vendor sells lemons at the rate of 5 for 14, gaining thereby 40%. For how much did he buy a dozen lemons ?",
+          "options": [
+            "20",
+            "24",
+            "21",
+            "28"
+          ],
+          "correctAnswer": "24"
+        },
+        {
+          "id": 5,
+          "text": "Arun buys one kilogram of apples for Rs. 120 and sells it to Swati gaining 25%. Swati sells it to Divya who again sells it for Rs. 198, making a profit of 10%. What is the profit percentage made by Swati ?",
+          "options": [
+            "25%",
+            "20%",
+            "16.67%",
+            "15%"
+          ],
+          "correctAnswer": "20%"
+        },
+        {
+          "id": 6,
+          "text": "The prices of a refrigerator and a television set are in the ratio 5 : 3. If the refrigerator costs 5500 more than the television set, then the price of the refrigerator is ?",
+          "options": [
+            "13750",
+            "27500",
+            "8250",
+            "16500"
+          ],
+          "correctAnswer": "13750"
+        },
+        {
+          "id": 7,
+          "text": "An article is sold at 5% profit. The ratio of selling price and cost price will be ?",
+          "options": [
+            "21 : 20",
+            "1 : 5",
+            "20 : 21",
+            "5 : 1"
+          ],
+          "correctAnswer": "21 : 20"
+        },
+        {
+          "id": 8,
+          "text": "To gain 10% on selling sample milk at the cost price of pure milk, the quantity of water to be mixed with 50 kg. of pure milk is ?",
+          "options": [
+            "2.5 Kg",
+            "7.5 Kg",
+            "5 Kg",
+            "10 Kg"
+          ],
+          "correctAnswer": "5 Kg"
+        },
+        {
+          "id": 9,
+          "text": "On selling an article for 170, a shopkeeper loses 15%. In order to gain 20%, he must sell that article at ?",
+          "options": [
+            "215.50",
+            "212.50",
+            "240",
+            "210"
+          ],
+          "correctAnswer": "240"
+        },
+        {
+          "id": 10,
+          "text": "Arvind purchased a wrist watch with 30% discount on the labelled price. He sold it with 40% profit on the price he bought. What was his percent loss on the labelled price ?",
+          "options": [
+            "6%",
+            "4%",
+            "8%",
+            "2%"
+          ],
+          "correctAnswer": "2%"
+        }
+      ]
     }
-    
-]
+  ]

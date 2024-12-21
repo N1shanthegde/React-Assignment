@@ -1,11 +1,11 @@
-export interface Question {
+export type Question ={
     id: number;
     text: string;
     options: string[];
     correctAnswer: string;
 }
 
-export interface QuizSection {
+export type Quiz ={
     id: string;
     name: string;
     questions: Question[];
